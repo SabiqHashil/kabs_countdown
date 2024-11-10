@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Orbitron:wght@400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wght@0,100..900;1,100..900&family=Black+Ops+One&family=Mitr:wght@200;300;400;500;600;700&family=Readex+Pro:wght@160..700&family=Righteous&family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Voltaire&display=swap');
+
+
+
+* {
+  font-family: 'Raleway', sans-serif;
+  
+}
+@font-face {
+  font-family: 'Orbitron', cursive;
+  src: url(../src/assets/font/Orbitron-VariableFont_wght.ttf);
+}
+.Orbitron {
+  font-family: 'Orbitron';
+}
+
+.amatic-font {
+  font-family: 'Amatic SC', cursive;
+}
+.fone {
+  font-family: 'Advent Pro', cursive;
+}
+.ftwo {
+  font-family: 'Readex Pro', cursive;
+}
+.fthree {
+  font-family: 'Righteous ', cursive;
+}
+.ffour {
+  font-family: 'Saira Condensed', cursive;
+}
+.ffive {
+  font-family: 'Voltaire', cursive;
+}
+.fsix {
+  font-family: 'Black+Ops+One', cursive;
+}
+
+
+
